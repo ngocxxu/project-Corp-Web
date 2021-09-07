@@ -82,10 +82,10 @@
   top: initial;
 }
 .slide .carousel a .carousel-control-prev-icon {
-  background-image: url(/arrowleft.png);
+  background-image: url("arrowleft.png");
 }
 .slide .carousel a .carousel-control-next-icon {
-  background-image: url(/arrow.png);
+  background-image: url("arrow.png");
 }
 .slide .carousel a span {
   background-color: #fff;
@@ -120,7 +120,7 @@
   align-items: center;
 }
 .slide .carousel-item .bg1 {
-  background-image: url(/b1.jpg);
+  background-image: url("b1.jpg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -128,7 +128,7 @@
   height: 100%;
 }
 .slide .carousel-item .bg2 {
-  background-image: url(/b2.jpg);
+  background-image: url("b2.jpg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -136,7 +136,7 @@
   height: 100%;
 }
 .slide .carousel-item .bg3 {
-  background-image: url(/b3.jpg);
+  background-image: url("b3.jpg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -144,7 +144,7 @@
   height: 100%;
 }
 .slide .carousel-item .bg4 {
-  background-image: url(/b4.jpg);
+  background-image: url("b4.jpg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
@@ -765,7 +765,7 @@ hr {
 .footer .footer__top {
   padding: 6rem;
   text-align: center;
-  background-image: url(/map.png);
+  background-image: url("map.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 50rem;

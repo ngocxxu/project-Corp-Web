@@ -115,11 +115,11 @@ $colorDivOn: #f7f7f7;
       top: initial;
 
       .carousel-control-prev-icon {
-        background-image: url(/arrowleft.png);
+        background-image: url('arrowleft.png');
       }
 
       .carousel-control-next-icon {
-        background-image: url(/arrow.png);
+        background-image: url('arrow.png');
       }
 
       span {
@@ -163,7 +163,7 @@ $colorDivOn: #f7f7f7;
     }
 
     .bg1 {
-      background-image: url(/b1.jpg);
+      background-image: url('b1.jpg');
       background-position: top;
       background-repeat: no-repeat;
       background-size: cover;
@@ -171,7 +171,7 @@ $colorDivOn: #f7f7f7;
       height: 100%;
     }
     .bg2 {
-      background-image: url(/b2.jpg);
+      background-image: url('b2.jpg');
       background-position: top;
       background-repeat: no-repeat;
       background-size: cover;
@@ -179,7 +179,7 @@ $colorDivOn: #f7f7f7;
       height: 100%;
     }
     .bg3 {
-      background-image: url(/b3.jpg);
+      background-image: url('b3.jpg');
       background-position: top;
       background-repeat: no-repeat;
       background-size: cover;
@@ -187,7 +187,7 @@ $colorDivOn: #f7f7f7;
       height: 100%;
     }
     .bg4 {
-      background-image: url(/b4.jpg);
+      background-image: url('b4.jpg');
       background-position: top;
       background-repeat: no-repeat;
       background-size: cover;
@@ -932,7 +932,7 @@ hr {
   .footer__top {
     padding: 6rem;
     text-align: center;
-    background-image: url(/map.png);
+    background-image: url("map.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 50rem;
